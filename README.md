@@ -1,24 +1,20 @@
-<h1 align="center">Hi 👋, I'm Thumilan M</h1>
-<h3 align="center">Aspiring Data Analyst from India</h3>
+# online retail shop - Data visualization using Tableau
+**Introduction**
 
-- 🔭 I’m currently studing on **Agni college of technology**
+The "Online Retail Shop - Data Visualization" project is a comprehensive data visualization solution using Tableau to analyze and represent key metrics and insights for an online retail business. This project aims to provide a user-friendly interface for stakeholders to make informed decisions based on visualized data.
 
-- 🌱 I’m currently learning **data visualization in python / Guvi**
+## Features:
 
-- 🛠 Skills **Tableau | MS Excel |**
+- **Interactive Dashboards:** Explore and interact with dynamic dashboards designed to showcase various aspects of the online retail business.
 
-- 🤝 I’m looking for Intership **Enhance skills and real-world experience in data analytics**
+- **Sales Analysis:** Visualize sales trends, product performance, and customer behavior to identify opportunities and challenges.
 
-- 📫 How to reach me **thumilan04@gmail.com**
+- **Customer Segmentation:** Understand customer segments based on demographics, purchase history, and preferences.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/thumilan-m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/thumilan-m" height="30" width="40" /></a>
-<a href="https://instagram.com/thumilan_m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thumilan_m" height="30" width="40" /></a>
-</p>
+- **Inventory Management:** Track inventory levels, identify popular products, and optimize stock levels.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- **Geospatial Analysis:** Map customer locations, visualize regional sales, and identify potential markets.
+ 
+- **Real-time Updates:** Utilize real-time data integration for up-to-the-minute insights.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thumilan04&show_icons=true&locale=en&layout=compact" alt="thumilan04" /></p>
-
+   **Happy reading** **:)**
